@@ -1,0 +1,17 @@
+:root {
+  --dark-color: #1e1b20;
+  --body-font: "Montserrat", sans-serif;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: var(--dark-color);
+  font-family: var(--body-font)
+
+}
+
